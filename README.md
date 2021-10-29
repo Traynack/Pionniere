@@ -1,5 +1,5 @@
 # Pionnière 
-## _The_ colonization modpack!
+_The_ colonization modpack!
 
 Pionnière is a modpack for Minecraft version 1.12.2 about constructing and maintaining colonies!
 This was made for the person who thinks herding vanilla villagers are too damn boring.

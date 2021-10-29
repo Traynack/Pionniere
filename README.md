@@ -10,4 +10,4 @@ This was made for the person who thinks herding vanilla villagers are too damn b
 
 This modpack is fairly complicated for someone who's not familiar with the mods. Fret not though, because there is a handy dandy tutorial built in for each of the colony management mods.
 
-## If you see this this means that the README is NOT finished yet!
+## If you see this this means that the README (and subsequently the project) is NOT finished yet!
